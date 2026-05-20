@@ -11,12 +11,12 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
 <table>
   <tr>
     <td>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-melissa-o-35608a147" alt="LinkedIn QR Code" width="150"/>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-o-35608a147" alt="LinkedIn QR Code" width="150"/>
     </td>
     <td>
       <strong>Rebeca Oreamuno Sequeira</strong><br>
       Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA<br><br>
-      ➔ <a href="https://www.linkedin.com/in/rebeca-melissa-o-35608a147" target="_blank">Visitar mi Perfil de LinkedIn</a>
+      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visitar mi Perfil de LinkedIn</a>
     </td>
   </tr>
 </table>
