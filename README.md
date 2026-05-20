@@ -28,24 +28,24 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
 
 Especialización técnica avanzada en operaciones de seguridad (SOC), defensa perimetral, análisis de tráfico y fundamentos de automatización con Python y Linux.
 
-* 🌐 **[Certificado CyberOps Associate](CyberOps_Associate.pdf)** `Credencial de Peso`
-* 🛡️ **[Certificado Hacker Ético](Hacker_Etico.pdf)** `Credencial de Peso`
-* 📡 **[Certificado Network Defense](Network_Defense.pdf)** `Credencial de Peso`
-* 🎯 **[Certificado Analista Junior en Ciberseguridad](Analista_Junior_Ciberseguridad.pdf)**
-* 💻 **[Certificado Endpoint Security](Endpoint_Security.pdf)**
-* ⚠️ **[Certificado Cyber Threat Management](Cyber_Threat_Management.pdf)**
-* 🧱 **[Certificado Fundamentos de Ciberseguridad](Fundamentos_Ciberseguridad.pdf)**
+* 🌐 **[Certificado CyberOps Associate](CyberOps_Associate.pdf?raw=true)** `Credencial de Peso`
+* 🛡️ **[Certificado Hacker Ético](Hacker_Etico.pdf?raw=true)** `Credencial de Peso`
+* 📡 **[Certificado Network Defense](Network_Defense.pdf?raw=true)** `Credencial de Peso`
+* 🎯 **[Certificado Analista Junior en Ciberseguridad](Analista_Junior_Ciberseguridad.pdf?raw=true)**
+* 💻 **[Certificado Endpoint Security](Endpoint_Security.pdf?raw=true)**
+* ⚠️ **[Certificado Cyber Threat Management](Cyber_Threat_Management.pdf?raw=true)**
+* 🧱 **[Certificado Fundamentos de Ciberseguridad](Fundamentos_Ciberseguridad.pdf?raw=true)**
 * 🟢 **Ruta Completa Cisco CCNA:**
-    * *CCNA 1:* **[Introducción a Redes](CCNA1_Introduccion_Redes.pdf)**
-    * *CCNA 2:* **[Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas](CCNA2_Fundamentos_Enrutamiento.pdf)**
-    * *CCNA 3:* **[Redes Empresariales, Seguridad y Automatización](CCNA3_Redes_Empresariales.pdf)**
-* ⚙️ **[Certificado Dispositivos de Red y Configuración Inicial](Dispositivos_Red_Configuracion_Inicial.pdf)**
-* 📶 **[Certificado Conceptos Básicos de Redes](Conceptos_Basicos_Redes.pdf)**
-* 🐧 **[Certificado Linux Essentials](Linux.pdf)**
-* 🐍 **[Certificado Fundamentos Python 1](Python_1.pdf)**
-* 🐍 **[Certificado Fundamentos Python 2](Python_2.pdf)**
-* 🇬🇧 **[Certificado Inglés para TI 1](Ingles_TI_1.pdf)**
-* 🇬🇧 **[Certificado Inglés para TI 2](Ingles_TI_2.pdf)**
+    * *CCNA 1:* **[Introducción a Redes](CCNA1_Introduccion_Redes.pdf?raw=true)**
+    * *CCNA 2:* **[Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas](CCNA2_Fundamentos_Enrutamiento.pdf?raw=true)**
+    * *CCNA 3:* **[Redes Empresariales, Seguridad y Automatización](CCNA3_Redes_Empresariales.pdf?raw=true)**
+* ⚙️ **[Certificado Dispositivos de Red y Configuración Inicial](Dispositivos_Red_Configuracion_Inicial.pdf?raw=true)**
+* 📶 **[Certificado Conceptos Básicos de Redes](Conceptos_Basicos_Redes.pdf?raw=true)**
+* 🐧 **[Certificado Linux Essentials](Linux.pdf?raw=true)**
+* 🐍 **[Certificado Fundamentos Python 1](Python_1.pdf?raw=true)**
+* 🐍 **[Certificado Fundamentos Python 2](Python_2.pdf?raw=true)**
+* 🇬🇧 **[Certificado Inglés para TI 1](Ingles_TI_1.pdf?raw=true)**
+* 🇬🇧 **[Certificado Inglés para TI 2](Ingles_TI_2.pdf?raw=true)**
 
 ---
 
@@ -53,24 +53,24 @@ Especialización técnica avanzada en operaciones de seguridad (SOC), defensa pe
 
 Competencias en infraestructura global de AWS, gobernanza, seguridad en la nube (IAM/KMS), redes híbridas y servicios serverless modernos.
 
-* 🎓 **[AWS Certified Cloud Practitioner](AWS_Cloud_Practitioner.pdf)** `Certificación Oficial`
-* ⚡ **[AWS Technical Essentials](AWS_Technical_Essentials.pdf)**
-* 💡 **[AWS Cloud Practitioner Essentials](AWS_Cloud_Practitioner_Essentials.pdf)**
-* 🌐 **[Introduction to Amazon VPC](Amazon_VPC.pdf)**
-* 🔑 **[Introduction to AWS Identity and Access Management (IAM)](AWS_IAM.pdf)**
-* 🔒 **[Introduction to AWS Key Management Service (KMS)](AWS_KMS.pdf)**
-* 🚀 **[Introduction to AWS Lambda](AWS_Lambda.pdf)**
-* ⚙️ **[Introduction to Amazon API Gateway](Amazon_API_Gateway.pdf)**
-* 📦 **[Introduction to Amazon Simple Storage Service (S3)](Amazon_S3.pdf)**
-* 🖥️ **[Introduction to Amazon EC2](Amazon_EC2.pdf)**
-* 📊 **[Amazon DynamoDB Core Concepts](Amazon_DynamoDB.pdf)**
-* 📡 **[Introduction to Amazon CloudFront](Amazon_CloudFront.pdf)**
-* 📝 **[Performing a Basic Audit of your AWS Environment](Audit_AWS_Environment.pdf)**
-* 💵 **[AWS Billing and Cost Management](AWS_Billing_Cost_Management.pdf)**
-* 🤖 **[Introduction to Generative AI - Art of the Possible](Generative_AI.pdf)**
-* 💼 **[Job Roles in the Cloud AWS](Job_Roles_Cloud.pdf)**
-* 🎯 **[Official Practice Question Set AWS](Official_Practice_Questions.pdf)**
-* ☁️ **[Certificado Fundamentos Cómputo en la Nube](Fundamentos_Computo_Nube.pdf)**
+* 🎓 **[AWS Certified Cloud Practitioner](AWS_Cloud_Practitioner.pdf?raw=true)** `Certificación Oficial`
+* ⚡ **[AWS Technical Essentials](AWS_Technical_Essentials.pdf?raw=true)**
+* 💡 **[AWS Cloud Practitioner Essentials](AWS_Cloud_Practitioner_Essentials.pdf?raw=true)**
+* 🌐 **[Introduction to Amazon VPC](Amazon_VPC.pdf?raw=true)**
+* 🔑 **[Introduction to AWS Identity and Access Management (IAM)](AWS_IAM.pdf?raw=true)**
+* 🔒 **[Introduction to AWS Key Management Service (KMS)](AWS_KMS.pdf?raw=true)**
+* 🚀 **[Introduction to AWS Lambda](AWS_Lambda.pdf?raw=true)**
+* ⚙️ **[Introduction to Amazon API Gateway](Amazon_API_Gateway.pdf?raw=true)**
+* 📦 **[Introduction to Amazon Simple Storage Service (S3)](Amazon_S3.pdf?raw=true)**
+* 🖥️ **[Introduction to Amazon EC2](Amazon_EC2.pdf?raw=true)**
+* 📊 **[Amazon DynamoDB Core Concepts](Amazon_DynamoDB.pdf?raw=true)**
+* 📡 **[Introduction to Amazon CloudFront](Amazon_CloudFront.pdf?raw=true)**
+* 📝 **[Performing a Basic Audit of your AWS Environment](Audit_AWS_Environment.pdf?raw=true)**
+* 💵 **[AWS Billing and Cost Management](AWS_Billing_Cost_Management.pdf?raw=true)**
+* 🤖 **[Introduction to Generative AI - Art of the Possible](Generative_AI.pdf?raw=true)**
+* 💼 **[Job Roles in the Cloud AWS](Job_Roles_Cloud.pdf?raw=true)**
+* 🎯 **[Official Practice Question Set AWS](Official_Practice_Questions.pdf?raw=true)**
+* ☁️ **[Certificado Fundamentos Cómputo en la Nube](Fundamentos_Computo_Nube.pdf?raw=true)**
 
 ---
 
@@ -78,5 +78,5 @@ Competencias en infraestructura global de AWS, gobernanza, seguridad en la nube 
 
 Metodologías ágiles y marcos de optimización de procesos aplicados a flujos de trabajo técnicos.
 
-1. 🥇 **[Scrum Foundation Professional Certificate](Coursera_SCRUM.pdf)** | IBM / Coursera *(ID: YUM8ODAZX0SB)*
-2. 💛 **[Lean Six Sigma Yellow Belt](SixSigmaYellowBelt.pdf)** | Certificación Oficial *(ID: 906768)*
+1. 🥇 **[Scrum Foundation Professional Certificate](Coursera_SCRUM.pdf?raw=true)** | IBM / Coursera *(ID: YUM8ODAZX0SB)*
+2. 💛 **[Lean Six Sigma Yellow Belt](SixSigmaYellowBelt.pdf?raw=true)** | Certificación Oficial *(ID: 906768)*
