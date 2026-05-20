@@ -14,8 +14,7 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
 <table>
   <tr>
     <td>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-melissa-o-35608a147" alt="LinkedIn QR Code" width="150"/>
-    </td>
+    
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-melissa-o-35608a147" alt="LinkedIn QR Code" width="150"/>
     <td>
       <strong>Rebeca Oreamuno Sequeira</strong><br>
