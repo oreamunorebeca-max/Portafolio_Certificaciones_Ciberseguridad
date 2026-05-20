@@ -77,4 +77,4 @@ Competencias en infraestructura global de AWS, gobernanza, seguridad en la nube 
 Metodologías ágiles y marcos de optimización de procesos aplicados a flujos de trabajo técnicos.
 
 1. 🥇 **[Scrum Foundation Professional Certificate](Coursera_SCRUM.pdf?raw=true)** | IBM / Coursera *(ID: YUM8ODAZX0SB)*
-2. 💛 **[Lean Six Sigma Yellow Belt](SixSigmaYellowBelt.pdf?raw=true)** | Certificación Oficial *(ID: 906768)*
+2. 💛 **[Lean Six Sigma Yellow Belt](SixSigmaYellowBelt.pdf?raw=true)** | Certificación Oficial *(ID: 906768)*  
