@@ -4,7 +4,6 @@
 ¡Bienvenido a mi repositorio de credenciales! Aquí se recopilan y validan mis certificaciones y habilidades en **Ciberseguridad, Infraestructura Cloud (AWS), Redes Cisco y Gestión de Proyectos**.
 
 ---
-
 ## 👤 Conectemos en LinkedIn
 
 Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos, puedes escanear el código QR o hacer clic en el enlace para ir directo a mi perfil.
@@ -21,7 +20,6 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔒 Ciberseguridad & Redes (Cisco NetAcad)
