@@ -1,6 +1,7 @@
 # Portafolio_Certificaciones_Ciberseguridad
 # 🛡️ Certificaciones Técnicas & Credenciales Profesionales
 
+
 ¡Bienvenido a mi repositorio de credenciales! Aquí se recopilan y validan mis certificaciones y habilidades en **Ciberseguridad, Infraestructura Cloud (AWS), Redes Cisco y Gestión de Proyectos**. 
 
 A través de este portafolio demuestro mi compromiso con el aprendizaje continuo, la automatización y la protección de entornos críticos.
@@ -14,8 +15,8 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
 <table>
   <tr>
     <td>
-    
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-melissa-o-35608a147" alt="LinkedIn QR Code" width="150"/>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-melissa-o-35608a147" alt="LinkedIn QR Code" width="150"/>
+    </td>
     <td>
       <strong>Rebeca Oreamuno Sequeira</strong><br>
       Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA<br><br>
